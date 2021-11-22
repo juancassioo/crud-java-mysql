@@ -13,4 +13,4 @@ A ideia é que seja uma agenda de contatos para uma editora.
 Tive auxílio do professor Bruno Duarte.
 <br>
 Seria ignorância da minha parte caso não prestasse os devidos agradecimentos.
-<a href="https://youtube.com/playlist?list=PLA177te8KCzejCXMA_Jd1sJU9pw-utKJ_" target="_blank">Link da playlist</a>
+<a href="https://youtube.com/playlist?list=PLA177te8KCzejCXMA_Jd1sJU9pw-utKJ_" target="_blank" rel="external">Link da playlist</a>
