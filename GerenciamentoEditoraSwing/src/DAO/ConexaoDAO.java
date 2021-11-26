@@ -17,7 +17,7 @@ public class ConexaoDAO {
         Connection conn = null;
         
         try{
-            String url = "jdbc:mysql://localhost:3306/editora?user=root&password=panda234";
+            String url = "jdbc:mysql://localhost:3306/editora?user=root&password=";
             conn = DriverManager.getConnection(url);
         } catch(SQLException e){
             JOptionPane.showMessageDialog(null, e.getMessage());
